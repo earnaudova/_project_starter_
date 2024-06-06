@@ -1,1 +1,1 @@
-This is my journey of learning web development.
+Trying out a few tasks for front end web development.
